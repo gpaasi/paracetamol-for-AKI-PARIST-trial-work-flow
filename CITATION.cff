@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this workflow or data, please cite it as below."
+title: "PARIST Trial Workflow: Reproducible Analysis & Manuscript for Paracetamol in Malaria-Associated Acute Kidney Injury"
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"   # ← replace once Zenodo DOI minted
+date-released: 2025-06-18
+url: "https://github.com/<ORG>/parist-trial-workflow"
+repository-code: "https://github.com/<ORG>/parist-trial-workflow"
+abstract: >
+  Full, reproducible code and de-identified data underpinning the PARIST clinical trial manuscript
+  evaluating paracetamol for renal recovery in paediatric severe malaria.
+  Includes analysis scripts, RMST models, figures, and manuscript source.
+
+authors:
+  - family-names: FirstAuthorSurname
+    given-names: FirstAuthorGiven
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Department of Paediatrics & Child Health, [Institution]"
+  - family-names: SecondAuthorSurname
+    given-names: SecondAuthorGiven
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  # …add remaining co-authors
+
+keywords:
+  - acute kidney injury
+  - severe malaria
+  - paediatrics
+  - restricted mean survival time
+  - reproducible research
+
+license: "CC-BY-4.0"   # matches dual license in LICENSE file
+preferred-citation:
+  type: article
+  title: "Paracetamol for renal recovery in malaria-associated AKI: results of the PARIST trial"
+  journal: "[Target Journal]"
+  year: 2025
+  authors:
+    - family-names: FirstAuthorSurname
+      given-names: FirstAuthorGiven
+    - et-al: true
