@@ -184,10 +184,5 @@ For issues or feature requests open a GitHub Issue or start a Discussion.
 
 **Happy analysing – and thanks for advancing open, reproducible clinical science!**
 
-```
 
-> **How to use**  
-> 1. Copy the text above into `README.md`.  
-> 2. Replace placeholders (`<ORG>`, `<Your Name>`, DOIs, e-mails).  
-> 3. Commit and push – the badges will render automatically once the repo is online and CI is enabled.
 ```
