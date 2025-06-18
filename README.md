@@ -98,7 +98,6 @@ open docs/PARIST_manuscript.pdf
 | 1  Import & clean                 | `01_data-cleaning.R`  | `data/derived/parist_analysis_set.csv`                             |
 | 2  Descriptive stats              | `02_descriptive.Rmd`  | `figures/Table1.png`                                               |
 | 3  Primary RMST + adjusted models | `03_RMST_analysis.R`  | `figures/Fig2_RMST_curve.pdf`, `analysis/results/rmst_summary.csv` |
-| 4  Manuscript build               | R Markdown + `pandoc` | `docs/PARIST_manuscript.pdf`, `docs/index.html`                    |
 
 The **CI workflow** executes exactly these steps on every push / PR to guarantee reproducibility.
 
@@ -174,8 +173,7 @@ When citing, please use the DOI badge at the top of this README once minted.
 ## Contact
 
 *Corresponding author:*
-**Dr <Your Name>** – [your.email@institution.org](mailto:your.email@institution.org)
-Department of Paediatrics & Child Health, <Institution>.
+**Dr Paasi George** – [georgepaasi8@gmail.com)
 
 For issues or feature requests open a GitHub Issue or start a Discussion.
 
