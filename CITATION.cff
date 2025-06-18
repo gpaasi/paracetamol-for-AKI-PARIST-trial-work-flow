@@ -4,7 +4,7 @@ title: "PARIST Trial Workflow: Reproducible Analysis & Manuscript for Paracetamo
 version: "1.0.0"
 doi: "10.5281/zenodo.XXXXXXX"   # ← replace once Zenodo DOI minted
 date-released: 2025-06-18
-url: "https://github.com/<ORG>/parist-trial-workflow"
+url: "https://github.com/gpaasi/paracetamol-for-AKI-PARIST-trial-work-flow"
 repository-code: "https://github.com/<ORG>/parist-trial-workflow"
 abstract: >
   Full, reproducible code and de-identified data underpinning the PARIST clinical trial manuscript
