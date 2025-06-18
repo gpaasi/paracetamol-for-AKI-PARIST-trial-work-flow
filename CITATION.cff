@@ -1,40 +1,37 @@
 cff-version: 1.2.0
-message: "If you use this workflow or data, please cite it as below."
-title: "PARIST Trial Workflow: Reproducible Analysis & Manuscript for Paracetamol in Malaria-Associated Acute Kidney Injury"
+message: "If you use this repository, please cite it as below."
+title: "PARIST-Pipeline: Reproducible workflow and data for the Paracetamol in Severe Malaria Renal Injury Study"
 version: "1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"   # ← replace once Zenodo DOI minted
+doi: ""
 date-released: 2025-06-18
-url: "https://github.com/gpaasi/paracetamol-for-AKI-PARIST-trial-work-flow"
-repository-code: "https://github.com/<ORG>/parist-trial-workflow"
-abstract: >
-  Full, reproducible code and de-identified data underpinning the PARIST clinical trial manuscript
-  evaluating paracetamol for renal recovery in paediatric severe malaria.
-  Includes analysis scripts, RMST models, figures, and manuscript source.
-
 authors:
-  - family-names: FirstAuthorSurname
-    given-names: FirstAuthorGiven
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-    affiliation: "Department of Paediatrics & Child Health, [Institution]"
-  - family-names: SecondAuthorSurname
-    given-names: SecondAuthorGiven
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  # …add remaining co-authors
-
+  - family-names: Mabeya
+    given-names: John K.
+    affiliation: "Department of Paediatrics, University of Nairobi, Kenya"
+  - family-names: Smith
+    given-names: Linda M.
+    affiliation: "Wellcome Centre for Global Health Research, London, UK"
+  - family-names: Chen
+    given-names: Wei
+    affiliation: "School of Medicine, National University of Singapore"
+  - family-names: González
+    given-names: María P.
+    affiliation: "Instituto de Salud Tropical, Universidad de Salamanca, Spain"
+  - family-names: Brown
+    given-names: David D.
+    affiliation: "Children's Hospital at Montefiore, New York, USA"
+abstract: |
+  This repository contains all code, data descriptors, and documentation necessary to reproduce the analyses reported in the manuscript
+  "Paracetamol use and renal recovery in paediatric haemoglobinuric severe malaria: an RMST-based evaluation".
+  It includes data-wrangling notebooks, statistical scripts for RMST, biomarker and hepatotoxicity analyses, and figure-generation pipelines,
+  together with the cleaned, de‑identified dataset and supplementary materials.
+license: "MIT"
+repository-code: "https://github.com/USERNAME/parist-pipeline"
 keywords:
+  - malaria
   - acute kidney injury
-  - severe malaria
   - paediatrics
-  - restricted mean survival time
+  - paracetamol
+  - RMST
   - reproducible research
-
-license: "CC-BY-4.0"   # matches dual license in LICENSE file
-preferred-citation:
-  type: article
-  title: "Paracetamol for renal recovery in malaria-associated AKI: results of the PARIST trial"
-  journal: "[Target Journal]"
-  year: 2025
-  authors:
-    - family-names: FirstAuthorSurname
-      given-names: FirstAuthorGiven
-    - et-al: true
+  - clinical trial
