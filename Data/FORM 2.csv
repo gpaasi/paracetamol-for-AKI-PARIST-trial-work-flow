@@ -1,0 +1,27 @@
+record_id_field,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,redcap_data_access_group,radomistion_date,randomisation_time,randomisation_num,enrollment_pax,enrollment_arm,paracetamol_a,paracetamol_b,post_randmstion_cnst_taken,postradomistion_date,postradomistion_time,initial_taking_consent,weight_2,calculated_dose,weight_band_dose,completed_name2,initial2,date_completed2,form_2_enrollment_complete
+PAX01A1--1,admission_arm_1,,,team_1,18/02/2022,18:00,1,01A1,1,1,,1,,,,13.5,270,2,CATE NAMAYANJA,C-N,18/02/2022,2
+PAX02B1--1,admission_arm_1,,,team_1,02/06/2022,18:43,2,02B1,2,,1,5,02/06/2022,17:58,M-R,,,,,,,2
+PAX03A2--1,admission_arm_1,,,team_1,04/07/2022,18:53,3,PAX03A2,1,2,,1,,,,21.8,436,4,ONGODIA PAUL,O-P,04/07/2022,2
+PAX04B2--1,admission_arm_1,,,team_1,06/07/2022,17:38,4,04B2,2,,2,1,,,,,,,,,,2
+PAX05B1--1,admission_arm_1,,,team_1,13/07/2022,18:30,5,PAX05B1,2,,1,1,,,,,,,CATE NAMAYANJA,C-N,13/07/2022,2
+PAX06A1--1,admission_arm_1,,,team_1,13/07/2022,19:15,6,06A1,1,1,,1,,,,18,360,3,ONGODIA PAUL,O-P,13/07/2022,2
+PAX07B2--1,admission_arm_1,,,team_1,21/07/2022,18:09,7,07B2,2,,2,1,,,,,,,CATE NAMAYANJA,C-N,21/07/2022,2
+PAX08A2--1,admission_arm_1,,,team_1,20/08/2022,15:00,8,08A2,1,2,,1,,,,17.9,358,3,WANDWASI JOSEPH,W-J,20/08/2022,2
+PAX09A1--1,admission_arm_1,,,team_1,27/08/2022,17:30,9,09A1,1,1,,1,,,,16.3,326,3,WANDWASI JOSEPH,W-J,27/08/2022,2
+PAX10B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0
+PAX11B2--1,admission_arm_1,,,team_1,13/10/2022,18:40,11,PAX11B2,2,,2,1,,,,,,,WANDWASI JOSEPH,W-J,13/10/2022,2
+PAX12A2--1,admission_arm_1,,,team_1,13/10/2022,18:55,12,12A2,1,2,,1,,,,20,400MG,3,CATE NAMAYANJA,C-N,13/10/2022,2
+PAX13A1--1,admission_arm_1,,,team_1,26/10/2022,14:00,13,13A1,1,1,,1,,,,16.4,328,3,ONGODIA PAUL,O-P,26/10/2022,2
+PAX14B1--1,admission_arm_1,,,team_1,30/10/2022,18:10,14,14B1,2,,1,1,,,,,,,WANDWASI JOSEPH,W-J,30/10/2022,2
+PAX15B2--1,admission_arm_1,,,team_1,03/11/2022,16:59,15,PAX15B2,2,,2,1,,,,,,,WANDWASI JOSEPH,W-J,03/11/2022,2
+PAX16A2--1,admission_arm_1,,,team_1,10/11/2022,16:37,16,016A2,1,2,,1,,,,17.9,358,3,CATE NAMAYANJA,C-N,10/11/2022,2
+PAX17B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0
+PAX18A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0
+PAX19A2--1,admission_arm_1,,,team_1,06/12/2022,08:32,19,19A2,1,2,,1,,,,15.4,308,3,ONGODIA PAUL,O-P,06/12/2022,2
+PAX20B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0
+PAX21B1--1,admission_arm_1,,,team_1,16/01/2023,12:47,21,21B1,2,,1,1,,,,,,,ONGODIA PAUL,O-P,16/01/2023,2
+PAX22AI--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0
+PAX23B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0
+PAX24A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0
+PAX25B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0
+PAX26A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,0

@@ -1,0 +1,125 @@
+record_id_field,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,redcap_data_access_group,date_form8_v2,child_initial8_v2,date_bedside_v2,time_bedside_v2,heart_rate_bedside_v2,weak_pulse_v2,blod_presure_systolic_v2,blod_presure_diastolic_v2,hypotension_v2,cap_refill_bedside_v2,temp_gradient_bedside_v2,temperature_bedside_v2,resptory_rate_bedside_v2,resptory_distrs_bdside_v2,oxgen_saturtn_bedside_v2,oxygen_recive_bedside_v2,vomiting_bedside_v2,level_conscness_bedside_v2,impaired_cons_bedside_v2,modified_gcs_bedside_v2,oedema_bedside_v2,dark_urine_grad_bedside_v2,convulsions_bedside_v2,jaundice_bedside_v2,ifyes_jaundice_v2,bloodglucose_bedside_v2,hpoglycaemia_bedside_v2,bloodlactate_bedside_v2,haemoglobin_bedside_v2,nurseinitial_bedside_v2,form_9_additional_daily_observation_complete
+PAX01A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX01A1--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,21/02/2022,W-I,21/02/2022,20:58,100,0,101,67,0,1,0,36.8,29,0,100,0,0,1,0,15,0,4,0,1, +,5.1,0,0.5,,M-R,2
+PAX01A1--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,21/02/2022,21:00,22/02/2022,21:00,107,0,107,69,0,1,0,36.3,25,0,99,0,0,1,0,15,0,3,0,1, +,5.1,0,2.5,,M-R,2
+PAX01A1--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,21/02/2022,W-I,23/02/2022,14:15,116,0,105,67,0,1,0,36.2,22,0,99,0,0,1,0,15,0,3,0,1, +,,0,,,A-T,2
+PAX02B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,05/06/2022,K-Z,05/06/2022,09:00,88,0,92,44,0,1,0,36.3,32,0,98,0,0,1,0,15/15,0,5,0,0,,,0,,,A-T,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,05/06/2022,K-Z,05/06/2022,18:55,76,0,97,47,0,1,0,36.2,30,0,98,0,0,1,0,15/15,0,,0,0,,6.5,0,0.7,,A-P,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,05/06/2022,K-Z,06/06/2022,10:54,65,0,88,50,0,1,0,36.2,22,0,96,0,0,1,0,15/15,0,,0,0,,,0,,,B-A,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,05/06/2022,K-Z,06/06/2022,19:00,60,0,90,49,0,1,0,35.9,28,0,99,0,0,1,0,15/15,0,5,0,0,,,0,,,A-T,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,05/06/2022,K-Z,07/06/2022,10:20,79,0,89,51,0,1,0,35.6,18,0,100,0,0,1,0,15/15,0,,0,0,,,0,,,B-A,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,6,team_1,05/06/2022,K-Z,07/06/2022,19:55,90,0,100,59,0,1,0,37.1,26,0,98,0,1,1,0,15/15,0,4,0,0,,,0,,,M-R,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,7,team_1,05/06/2022,K-Z,08/06/2022,17:00,76,0,99,60,0,1,0,35.6,27,0,99,0,0,1,0,15/15,0,,0,0,,,0,,,A-P,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,8,team_1,08/06/2022,K-Z,08/06/2022,18:55,77,0,103,73,0,1,0,36.2,24,0,95,0,0,1,0,15/15,0,4,0,0,,7,0,4.5,,M-R,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,9,team_1,08/06/2022,K-Z,09/06/2022,18:10,84,0,104,69,0,1,0,36.2,32,0,100,0,0,1,0,15/15,0,,0,0,,,0,,,A-P,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,10,team_1,08/06/2022,K-Z,10/06/2022,18:00,91,0,105,77,0,2,0,35.5,30,0,98,0,0,1,0,15/15,0,,0,0,,,0,,,A-P,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,11,team_1,08/06/2022,K-Z,11/06/2022,18:25,95,0,101,70,0,1,0,36,38,0,100,0,0,1,0,15/15,0,,0,0,,,0,,,A-P,2
+PAX02B1--1,admission_arm_1,form_9_additional_daily_observation,12,team_1,08/06/2022,K-Z,12/06/2022,11:50,83,0,102,66,0,1,0,36.2,28,0,99,0,0,1,0,15/15,0,,0,0,,,0,,,A-P,2
+PAX03A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,07/07/2022,A-M,07/07/2022,08:40,126,0,97,63,0,1,0,36,22,0,100,0,0,1,0,15/15,0,4,0,1, +,5.4,0,2.8,,C-T,2
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,07/07/2022,A-M,07/07/2022,20:58,111,0,101,75,0,1,0,36.7,28,0,100,0,0,1,0,15/15,0,4,0,0,,6.7,0,1.6,,M-R,2
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,07/07/2022,A-M,08/07/2022,07:40,99,0,105,68,0,1,0,36.6,25,0,100,0,0,1,0,15/15,0,2,0,0,,5.7,0,1.7,,S-M,2
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,07/07/2022,A-M,08/07/2022,18:00,104,0,100,63,0,1,0,36.6,27,0,100,0,0,1,0,15/15,0,2,0,0,,5.7,0,1.8,,S-M,2
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,07/07/2022,A-M,09/07/2022,08:30,100,0,105,71,0,1,0,36,23,0,100,0,0,1,0,15/15,0,2,0,0,,5.5,0,2,,M-R,2
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,6,team_1,07/07/2022,A-M,09/07/2022,20:40,109,0,99,68,0,1,0,36,26,0,100,0,0,1,0,15/15,0,2,0,0,,5.9,0,1.8,,M-R,2
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,7,team_1,07/07/2022,A-M,10/07/2022,08:35,93,0,98,65,0,1,0,36.6,24,0,100,0,0,1,0,15/15,0,4,0,0,,5.1,0,3.9,,C-T,2
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,8,team_1,10/07/2022,A-M,10/07/2022,18:00,97,0,97,63,0,1,0,36.6,28,0,99,0,0,1,0,15/15,0,3,0,0,,6.1,0,4.2,,C-T,2
+PAX03A2--1,admission_arm_1,form_9_additional_daily_observation,9,team_1,10/07/2022,A-M,11/07/2022,17:00,96,0,98,59,0,1,0,36.5,26,0,99,0,0,1,0,15/15,0,3,0,0,,6.5,0,2.4,,A-P,2
+PAX04B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX04B2--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,09/07/2022,M-S,09/07/2022,08:20,114,0,98,68,0,1,0,36.1,26,0,100,0,0,1,0,15/15,0,3,0,0,,,0,,,M-R,2
+PAX04B2--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,09/07/2022,M-S ,09/07/2022,20:45,110,0,95,62,0,1,0,36,28,0,100,0,0,1,0,15/15,0,2,0,0,,6,0,1,,M-R,2
+PAX04B2--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,09/07/2022,M-S,10/07/2022,08:40,116,0,92,61,0,1,0,36.5,30,0,100,0,0,1,0,15/15,0,2,0,0,,4.2,0,2.3,,C-T,2
+PAX04B2--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,09/07/2022,M-S,10/07/2022,18:20,109,0,90,63,0,1,0,36.1,28,0,100,0,0,1,0,15/15,0,2,0,0,,7.7,0,3.3,,C-T,2
+PAX04B2--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,09/07/2022,M-S,11/07/2022,07:30,120,0,81,55,0,1,0,36.4,29,0,100,0,0,1,0,15/15,0,1,0,0,,5,0,0.5,,A-P,2
+PAX04B2--1,admission_arm_1,form_9_additional_daily_observation,6,team_1,09/07/2022,M-S,11/07/2022,18:00,116,0,92,64,0,1,0,36,28,0,99,0,0,1,0,15/15,0,2,0,0,,5.6,0,2.1,,C-T,2
+PAX04B2--1,admission_arm_1,form_9_additional_daily_observation,7,team_1,09/07/2022,M-S,12/07/2022,07:30,117,0,96,58,0,1,0,36.5,28,0,100,0,0,1,0,15/15,0,2,0,0,,6,0,0.9,,A-P,2
+PAX05B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX05B1--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,16/07/2022,A-K,16/07/2022,09:00,122,0,101,67,0,1,0,36.7,30,0,99,0,0,1,0,15/15,0,2,0,0,,,0,,,A-T,2
+PAX05B1--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,16/07/2022,A-K,16/07/2022,18:35,118,0,98,65,0,1,0,36.5,32,0,98,0,0,1,0,15/15,0,2,0,0,,5.7,0,0.8,,A-P,2
+PAX05B1--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,16/07/2022,A-K,17/07/2022,09:20,112,0,100,59,0,1,0,37,28,0,97,0,0,1,0,15/15,0,2,0,0,,,0,,,A-T,2
+PAX05B1--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,16/07/2022,A-K,17/07/2022,18:40,120,0,98,56,0,1,0,36.6,30,0,99,0,0,1,0,15/15,0,2,0,0,,5.2,0,2.5,,A-P,2
+PAX05B1--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,16/07/2022,A-K,18/07/2022,09:40,114,0,110,73,0,1,0,36.5,34,0,97,0,0,1,0,15/15,0,2,0,0,,,0,,,A-T,2
+PAX05B1--1,admission_arm_1,form_9_additional_daily_observation,6,team_1,16/07/2022,A-K,18/07/2022,18:40,108,0,98,60,0,1,0,36.5,32,0,98,0,0,1,0,15/15,0,2,0,0,,5.6,0,1.2,,A-P,2
+PAX06A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX06A1--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,16/07/2022,K-U,16/07/2022,08:10,118,0,90,57,0,1,0,36.7,32,0,98,0,0,1,0,15/15,0,3,0,0,, -,0, -,,A-T,2
+PAX06A1--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,16/07/2022,K-U,16/07/2022,19:22,114,0,96,58,0,2,0,36.8,30,0,97,0,0,1,0,15/15,0,4,0,0,,6.3,0,1.5,,A-P,2
+PAX06A1--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,16/07/2022,K-U,17/07/2022,09:00,120,0,93,62,0,1,0,36.3,28,0,96,0,0,1,0,15/15,0,3,0,0,, -,0, -,,A-T,2
+PAX06A1--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,16/07/2022,K-U,17/07/2022,19:25,125,0,96,57,0,1,0,36.7,30,0,99,0,0,1,0,15/15,0,2,0,0,,5.3,0,3,,A-P,2
+PAX06A1--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,16/07/2022,K-U,18/07/2022,09:50,120,0,101,53,0,1,0,36.8,34,0,99,0,0,1,0,15/15,0,2,0,0,, -,0, -,,A-T,2
+PAX06A1--1,admission_arm_1,form_9_additional_daily_observation,6,team_1,16/07/2022,K-U,18/07/2022,19:40,118,0,98,56,0,1,0,36.4,28,0,100,0,0,1,0,15/15,0,2,0,0,,5.3,0,0.9,,A-P,2
+PAX06A1--1,admission_arm_1,form_9_additional_daily_observation,7,team_1,16/07/2022,K-U,19/07/2022,18:00,103,0,96,60,0,1,0,36.2,30,0,100,0,0,1,0,15/15,0,4,0,0,,6.1,0,2,,C-T,2
+PAX07B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX07B2--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,23/07/2022,S-R,24/07/2022,08:45,114,0,96,57,0,1,0,36.2,30,0,99,0,0,1,0,15/15,0,,0,0,,5,0,2.4,,A-P,2
+PAX07B2--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,23/07/2022,S-R,24/07/2022,20:45,100,0,100,62,0,1,0,36.4,28,0,97,0,0,1,0,15/15,0,,0,0,,5.8,0,2,,A-T,2
+PAX07B2--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,23/07/2022,S-R,25/07/2022,11:00,101,0,100,80,0,1,0,36,24,0,99,0,0,1,0,15/15,0,3,0,0,,,0,,,M-R,2
+PAX07B2--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,23/07/2022,S-R,25/07/2022,19:20,95,0,105,75,0,1,0,36.1,25,0,99,0,0,1,0,15/15,0,2,0,0,,,0,,,S-M,2
+PAX07B2--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,23/07/2022,S-R,26/07/2022,11:00,111,0,99,65,0,1,0,36,23,0,100,0,0,1,0,15/15,0,2,0,0,,,0,,,M-R,2
+PAX08A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX08A2--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,21/08/2022,N-F,22/08/2022,00:55,112,0,98,69,0,1,0,36.8,28,0,98,0,0,1,0,15,0, -,0,0,, -,0,,,A-T,2
+PAX08A2--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,21/08/2022,N-F,22/08/2022,20:15,100,0,97,65,0,1,0,36.5,25,0,97,0,0,1,0,15,0,6,0,0,, -,0,,,A-T,2
+PAX08A2--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,21/08/2022,N-F,23/08/2022,08:50,122,0,90,56,0,1,0,36.4,32,0,98,0,0,1,0,15/15,0,7,0,0,,6.7,0,2.1,,C-T,2
+PAX08A2--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,21/08/2022,N-F,23/08/2022,20:00,101,0,100,75,0,1,0,36.8,25,0,99,0,0,1,0,15/15,0, -,0,0,, -,0, -,,A-T,2
+PAX08A2--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,21/08/2022,N-F,24/08/2022,09:00,92,0,90,54,0,1,0,36,24,0,99,0,0,1,0,15,0,5,0,0,,5.2,0,1.9,,C-T,2
+PAX08A2--1,admission_arm_1,form_9_additional_daily_observation,6,team_1,21/08/2022,N-F,24/08/2022,22:10,84,0,93,65,0,1,0,36.1,25,0,99,0,0,1,0,15/15,0, -,0,0,,4.6,0,1.5,,S-M,2
+PAX09A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,30/08/2022,O-S,30/08/2022,10:20,108,0,90,58,0,1,0,36.5,28,0,100,0,0,1,0,15,0,5,0,1, +,5.2,0,2.2,,C-T,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,30/08/2022,O-S,30/08/2022,23:20,113,0,91,62,0,1,0,37.3,29,0,99,0,0,1,0,15/15,0,,0,0,,6,0,3.7,,S-M,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,30/08/2022,O-S,31/08/2022,08:36,111,0,98,64,0,1,0,36.8,22,0,100,0,0,1,0,15,0,5,0,1, +,5.8,0,2.6,,C-T,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,30/08/2022,O-S,31/08/2022,22:10,117,0,90,60,0,1,0,36.7,27,0,100,0,0,1,0,15/15,0,,0,1, +,6.2,0,2,,S-M,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,30/08/2022,O-S,01/09/2022,08:30,120,0,96,64,0,1,0,36.6,26,0,98,0,0,1,0,15,0,5,0,1, +,5.6,0,2.4,,C-T,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,6,team_1,30/08/2022,O-S,01/09/2022,22:10,115,0,93,59,0,1,0,36.5,25,0,99,0,0,1,0,15,0,4,0,0,,5.3,0,2.9,,S-M,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,7,team_1,30/08/2022,O-S,02/09/2022,16:50,122,0,94,66,0,1,0,36.4,24,0,96,0,0,1,0,15,0,3,0,1, +,7.6,0,2.5,,C-T,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,8,team_1,02/09/2022,O-S,02/09/2022,21:50,128,0,89,58,0,3,0,36.5,39,0,99,0,1,1,0,15,0,,0,1, +,7,0,2.5,,S-M,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,9,team_1,02/09/2022,O-S,03/09/2022,02:59,158,0,193,65,0,3,0,36.3,44,0,97,0,1,1,0,15,0,,0,1, ++,6.5,0,2.8,,S-M,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,10,team_1,02/09/2022,O-S,03/09/2022,09:00,140,0,80,55,0,2,0,36.5,40,0,95,0,1,1,0,14,0,,0,1, +,5.1,0,3.5,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,11,team_1,02/09/2022,O-S,03/09/2022,09:30,158,0,78,52,0,2,0,36,45,0,94,0,1,1,0,14,0,,0,1, +,5,0,4.2,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,12,team_1,02/09/2022,O-S,03/09/2022,10:00,162,0,79,51,0,2,0,36.1,47,0,94,0,1,1,0,14,0,,0,1, +,6,0,5,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,13,team_1,02/09/2022,O-S,03/09/2022,10:30,163,0,75,50,0,2,0,36,49,0,95,1,1,2,0,13,0,,0,1, +,5.8,0,6.2,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,14,team_1,02/09/2022,O-S,03/09/2022,11:00,165,1,70,49,0,2,0,36.1,51,1,94,1,0,2,0,13,0,,0,1, +,5.5,0,5.9,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,15,team_1,03/09/2022,O-S,03/09/2022,11:34,169,1,71,47,0,3,0,35.5,54,1,93,1,0,2,0,13,0,,0,1, +,,0,6.8,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,16,team_1,03/09/2022,O-S,03/09/2022,12:05,172,1,70,45,0,3,0,35.3,60,1,88,1,1,3,1,10,0,,0,1, +,5,0,10,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,17,team_1,03/09/2022,O-S,03/09/2022,12:55,178,1,68,46,0,3,1,35.6,58,1,90,1,0,3,1,10,0,,0,1, +,,0,11,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,18,team_1,03/09/2022,O-S,03/09/2022,13:30,182,1,65,44,0,3,1,35.4,50,1,86,1,0,3,1,8,0,,0,1, +,8.3,0,11.2,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,19,team_1,03/09/2022,O-S,03/09/2022,14:15,191,1,62,45,0,3,1,35.2,45,1,78,1,0,3,1,8,0,,0,1, +,15.1,0,12.9,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,20,team_1,03/09/2022,O-S,03/09/2022,14:58,193,1,60,43,0,3,1,35.3,38,1,71,1,0,3,1,8,0,,0,1, +,18,0,13.2,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,21,team_1,03/09/2022,O-S,03/09/2022,15:25,180,1,50,34,1,4,1,35.2,16,1,64,1,0,4,1,6,0,,0,1, +,17.5,0,13.5,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,22,team_1,03/09/2022,O-S,03/09/2022,15:38,168,1,,,1,4,1,34.8,15,1,58,1,0,4,1,5,0,,0,1, +,,0,,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,23,team_1,03/09/2022,O-S,03/09/2022,15:55,150,1,,,1,4,1,34.5,12,1,49,1,0,4,1,5,0,,0,1, +,,0,,,M-R,2
+PAX09A1--1,admission_arm_1,form_9_additional_daily_observation,24,team_1,03/09/2022,O-S,03/09/2022,16:15,130,1,,,1,4,1,34,10,1,45,1,0,4,1,4,0,,0,1, +,,0,15,,M-R,2
+PAX10B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX11B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX11B2--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,14/10/2022,K-G,14/10/2022,20:25,116,0,108,58,0,1,0,37.6,30,0,96,0,0,1,0,15,0,,0,1, ++,5.2,0,2,,C-T,2
+PAX11B2--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,14/10/2022,K-G,15/10/2022,01:00,93,0,120,68,0,1,0,36.8,22,0,94,0,0,1,0,15,0,,0,1, ++,4.6,0,3.4,,C-T,2
+PAX11B2--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,14/10/2022,K-G,15/10/2022,05:00,142,1,57,23,1,2,1,35.7,16,1,88,0,0,3,1,6,0,,0,1, ++,4.2,0,18.2,,C-T,2
+PAX12A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX13A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX13A1--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,29/10/2022,W-J,29/10/2022,08:30,102,0,90,56,0,1,0,36.1,24,0,100,0,0,1,0,15,0,5,0,1, +,5.8,0,3.1,,C-T,2
+PAX13A1--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,29/10/2022,W-J,29/10/2022,14:15,48,0,96,60,0,1,0,36.7,28,0,97,0,0,1,0,15,0,4,0,0,,5.6,0,2.8,,C-T,2
+PAX13A1--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,29/10/2022,W-J,29/10/2022,23:00,73,0,96,62,0,1,0,36.3,25,0,100,0,0,1,0,15,0,3,0,0,,5.2,0,2,,S-M,2
+PAX13A1--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,29/10/2022,W-J,30/10/2022,08:20,67,0,98,64,0,1,0,36.5,26,0,100,0,0,1,0,15,0,3,0,0,,5.3,0,2.2,,C-T,2
+PAX13A1--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,29/10/2022,W-J,30/10/2022,16:00,90,0,100,58,0,1,0,36.2,24,0,98,0,0,1,0,15,0,3,0,0,,6.1,0,2,,C-T,2
+PAX13A1--1,admission_arm_1,form_9_additional_daily_observation,6,team_1,29/10/2022,W-J,31/10/2022,08:00,94,0,98,56,0,1,0,36.5,26,0,99,0,0,1,0,15,0,3,0,0,,5.8,0,1.5,,A-P,2
+PAX14B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX14B1--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,02/11/2022,K-S,02/11/2022,06:30,106,0,96,61,0,1,0,36.5,28,0,99,0,0,1,0,15,0,5,0,1, +,5.4,0,2,,A-P,2
+PAX14B1--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,02/11/2022,K-S,02/11/2022,18:40,80,0,98,66,0,1,0,36.6,24,0,98,0,0,1,0,15,0, -,0,1, +,5,0,1.8,,C-T,2
+PAX14B1--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,02/11/2022,K-S,03/11/2022,08:10,96,0,100,65,0,1,0,36.9,26,0,99,0,0,1,0,15,0, -,0,0,,6.7,0, -,,A-T,2
+PAX14B1--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,02/11/2022,K-S,03/11/2022,18:40,94,0,98,58,0,1,0,36.5,28,0,100,0,0,1,0,15,0,5,0,0,,6,0,1.6,,C-T,2
+PAX14B1--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,02/11/2022,K-S,04/11/2022,16:00,98,0,96,57,0,1,0,36.5,27,0,98,0,0,1,0,15,0,3,0,0,,5.6,0,2.1,,A-P,2
+PAX15B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX15B2--1,admission_arm_1,form_9_additional_daily_observation,1,team_1,06/11/2022,K-P,06/11/2022,09:00,90,0,103,62,0,1,0,36.8,25,0,99,0,0,1,0,15,0, -,0,0,,6.9,0,3.6,,A-T,2
+PAX15B2--1,admission_arm_1,form_9_additional_daily_observation,2,team_1,06/11/2022,K-P,06/11/2022,19:17,112,0,100,59,0,1,0,37.2,32,0,98,0,0,1,0,15,0, -,0,0,,7.7,0,3.5,,C-T,2
+PAX15B2--1,admission_arm_1,form_9_additional_daily_observation,3,team_1,06/11/2022,K-P,07/11/2022,09:00,118,0,111,65,0,1,0,37,28,0,98,0,0,1,0,15,0, -,0,0,,6,0,3.1,,A-T,2
+PAX15B2--1,admission_arm_1,form_9_additional_daily_observation,4,team_1,06/11/2022,K-P,07/11/2022,17:26,115,0,106,58,0,1,0,36.5,28,0,99,0,0,1,0,15,0, -,0,0,,7.1,0,3,,A-P,2
+PAX15B2--1,admission_arm_1,form_9_additional_daily_observation,5,team_1,06/11/2022,K-P,08/11/2022,17:15,100,0,115,60,0,1,0,36.1,26,0,99,0,0,1,0,15,0,2,0,0,,5.1,0,2,,A-T,2
+PAX16A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX17B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX18A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX19A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX20B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX21B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX22AI--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX23B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX24A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX25B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX26A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

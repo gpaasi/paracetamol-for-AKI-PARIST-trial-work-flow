@@ -1,0 +1,109 @@
+record_id_field,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,redcap_data_access_group,child_initial12,clinin_no12,visit_f12,urine_sample,date_urn_collected,time_urn_collected,initial_f12,urine_dipstick_results,hammersmith,glucose,bilirubin,ketone,specific_gravity,blood,non_haemolyzed,haemolyzed,ph,protein,urobilinogen,nitrite,leukocytes,completedname12,initial12,date_completed12,form_12_laboratory_result_complete
+PAX01A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,1,team_1,W-I,84001,1,1,18/02/2022,21:40,M-R,1,7,1,3,4,3,2,,4,2,1,2,1,1,CLARE AKADO,C-A,19/02/2022,2
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,2,team_1,W-I,84001,2,1,19/02/2022,18:20,B-A,1,5,1,1,2,3,1,3,,3,1,1,1,1,RITA MUHINDO,R-M,20/02/2022,2
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,3,team_1,W-I,84001,3,1,20/02/2022,18:30,A-T,1,4,1,1,1,3,2,,4,3,1,1,1,1,GEORGE MASIFA,G-M,21/02/2022,2
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,4,team_1,W-I,84001,4,1,21/02/2022,19:00,M-R,1,4,1,1,1,2,2,,4,1,2,1,1,1,KAMIDU KYAGAMO,HKY,21/02/2022,2
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,5,team_1,W-I,84001,5,1,22/02/2022,20:30,M-R,1,5,1,1,1,1,2,,4,7,2,1,1,1,HAMIDU KYAGAMO,HKY,23/02/2022,2
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,6,team_1,W-I,84001,6,1,23/02/2022,20:31,M-R,1,4,1,1,1,1,2,,4,7,2,1,1,1,HAMIDU KYAGAMO,HKY,24/02/2022,2
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,7,team_1,W-I,84001,7,1,18/03/2022,06:00,M-R,1,4,1,1,1,4,1,1,,4,1,1,1,1,GEORGE MASIFA,G-M,18/03/2022,2
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,8,team_1,W-I,84001,8,1,,,,1,4,1,1,1,3,1,1,,5,1,1,1,1,HAMIDU KYAGAMO,HKY,20/05/2022,0
+PAX01A1--1,admission_arm_1,form_12_laboratory_result,9,team_1,W-I,84001,9,1,12/08/2022,10:30,C-T,1,6,1,1,2,4,1,1,,4,1,2,1,3,KENNETH NAMBOBI,K-N,12/08/2022,2
+PAX02B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,1,team_1,K-Z,86483,1,1,02/06/2022,18:53,A-T,1,8,2,1,1,4,2,,4,3,4,1,1,1,EDRIN MWANDA,EMW,03/06/2022,2
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,2,team_1,K-Z,86483,2,1,03/06/2022,19:40,A-P,1,5,1,1,4,4,2,,4,2,5,1,1,1,GEORGE MASIFA,G-M,04/06/2022,2
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,3,team_1,K-Z,86483,3,1,04/06/2022,19:45,A-P,1,7,1,1,1,4,2,,4,1,4,1,1,1,GEORGE MASIFA,G-M,05/06/2022,2
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,4,team_1,K-Z,86483,4,1,05/06/2022,19:00,A-P,1,6,1,1,1,5,2,,4,2,4,1,1,2,GEORGE MASIFA,G-M,07/06/2022,2
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,5,team_1,K-Z,86483,5,1,06/06/2022,17:50,A-T,1,7,1,1,1,4,2,,4,2,5,1,1,4,GEORGE MASIFA,G-M,07/06/2022,2
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,6,team_1,K-Z,86483,6,2,,,O-M,,,,,,,,,,,,,,,OLUPOT MOSES,O-M,06/09/2022,2
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,7,team_1,K-Z,86483,7,1,30/06/2022,11:00,C-T,1,4,1,1,1,4,1,1,,2,1,1,1,1,EMMANUEL EYOKU,EEY,30/06/2022,2
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,8,team_1,K-Z,86483,8,1,30/08/2022,11:50,C-T,1,4,1,1,1,3,1,1,,2,1,1,1,1,TIMOTHY KIRWA,T-K,30/08/2022,2
+PAX02B1--1,admission_arm_1,form_12_laboratory_result,9,team_1,K-Z,86483,9,1,29/11/2022,12:29,M-B,1,6,1,1,1,3,1,1,,5,1,1,1,1,GEORGE MASIFA,G-M,29/11/2022,2
+PAX03A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,1,team_1,A-M,97951,1,1,04/07/2022,23:40,A-P,1,6,1,1,1,1,2,,4,1,1,1,1,1,EDRIN MWANDA,EMW,05/06/2022,2
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,2,team_1,A-M,97951,2,1,04/07/2022,19:30,A-P,1,7,1,1,1,3,2,,4,2,3,1,1,1,TIMOTHY KIRWA,T-K,06/07/2022,2
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,3,team_1,A-M,97951,3,1,06/07/2022,19:50,A-P,1,6,1,1,1,3,2,,1,2,1,1,1,1,TIMOTHY KIRWA,T-K,07/07/2022,2
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,4,team_1,A-M,97951,4,1,07/07/2022,19:59,M-R,1,5,1,1,1,3,1,1,,6,1,1,1,1,KENNETH NAMBOBI,K-N,08/07/2022,2
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,5,team_1,A-M,97951,5,1,08/07/2022,01:00,M-R,1,4,1,1,1,2,1,1,,5,1,1,1,1,EMMANUEL EYOKU,EEY,09/07/2022,2
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,6,team_1,A-M,97951,6,1,09/07/2022,20:30,M-R,1,4,1,1,1,3,1,1,,4,1,1,1,1,GEORGE MASIFA,G-M,10/07/2022,2
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,7,team_1,A-M,97951,7,1,02/08/2022,10:18,C-T,1,3,1,1,1,3,1,1,,2,1,1,1,1,TIMOTHY KIRWA,T-K,02/08/2022,2
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,8,team_1,A-M,97951,8,1,03/10/2022,10:40,A-P,1,4,1,1,1,3,1,1,,6,1,1,1,1,EMMANUEL EYOKU,EEY,03/10/2022,2
+PAX03A2--1,admission_arm_1,form_12_laboratory_result,9,team_1,A-M,97951,9,1,02/01/2023,10:10,C-T,1,3,1,1,1,3,1,1,,2,1,1,1,1,GEORGE MASIFA,G-M,02/01/2023,2
+PAX04B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,1,team_1,M-S,98074,1,1,06/07/2022,18:30,A-P,1,9,1,1,3,4,2,,4,2,4,1,1,1,TIMOTHY KIRWA,T-K,07/07/2022,2
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,2,team_1,M-S,98074,2,1,07/07/2022,18:30,M-R,1,7,1,1,1,3,2,,3,2,1,1,1,2,KENNETH NAMBOBI,K-N,08/07/2022,2
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,3,team_1,M-S,98074,3,1,08/07/2022,19:00,M-R,1,3,1,1,1,3,2,,4,2,1,1,1,1,EMMANUEL EYOKU,EEY,09/07/2022,2
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,4,team_1,M-S,98074,4,1,09/07/2022,18:30,C-T,1,3,1,1,1,2,2,,1,5,1,1,1,1,GEORGE MASIFA,G-M,10/07/2022,2
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,5,team_1,M-S,98074,5,1,10/07/2022,19:37,C-T,1,3,1,1,1,2,2,,4,6,1,1,1,1,EMMANUEL EYOKU,EEY,11/07/2022,2
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,6,team_1,M-S,98074,6,1,11/07/2022,17:40,C-T,1,3,1,1,1,3,2,,2,2,1,1,1,1,TIMOTHY KIRWA,T-K,12/07/2022,2
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,7,team_1,M-S,98074,7,1,05/08/2022,11:26,O-M,1,3,1,1,1,3,1,1,,2,1,1,1,1,EDRIN MWANDA,EMW,05/08/2022,2
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,8,team_1,M-S,98074,8,1,07/10/2022,10:35,C-T,1,3,1,1,1,3,1,1,,1,1,1,1,1,GEORGE MASIFA,G-M,07/10/2022,2
+PAX04B2--1,admission_arm_1,form_12_laboratory_result,9,team_1,M-S,98074,9,1,09/01/2023,,,1,5,1,1,1,3,1,1,,5,1,1,1,1,KHWAKA JOYCE,J-K,09/01/2023,0
+PAX05B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX05B1--1,admission_arm_1,form_12_laboratory_result,1,team_1,A-K,100408,1,1,13/07/2022,18:50,M-R,1,6,1,1,1,4,1,1,,2,1,1,1,2,EDRIN MWANDA,EMW,14/07/2022,2
+PAX05B1--1,admission_arm_1,form_12_laboratory_result,2,team_1,A-K,100408,2,1,14/07/2022,18:50,C-T,1,4,1,1,1,3,1,1,,2,1,1,1,1,TIMOTHY KIRWA,T-K,15/07/2022,2
+PAX05B1--1,admission_arm_1,form_12_laboratory_result,3,team_1,A-K,100408,3,1,15/07/2022,19:40,S-M,1,4,1,1,1,2,1,1,,5,1,1,1,1,TIMOTHY KIRWA,T-K,16/07/2022,2
+PAX05B1--1,admission_arm_1,form_12_laboratory_result,4,team_1,A-K,100408,4,1,16/07/2022,19:00,A-P,1,4,1,1,1,3,1,1,,3,1,1,1,1,EDRIN MWANDA,EMW,17/07/2022,2
+PAX05B1--1,admission_arm_1,form_12_laboratory_result,5,team_1,A-K,100408,6,1,18/07/2022,19:00,A-P,1,3,1,1,1,3,1,1,,3,1,1,1,1,EDRIN MWANDA,EMW,19/07/2022,2
+PAX05B1--1,admission_arm_1,form_12_laboratory_result,6,team_1,A-K,100408,7,1,12/08/2022,14:57,C-T,1,2,1,1,1,3,1,1,,2,1,2,1,1,EDRIN MWANDA,EMW,12/08/2022,2
+PAX05B1--1,admission_arm_1,form_12_laboratory_result,7,team_1,A-K,100408,5,1,17/07/2022,19:00,A-P,1,4,1,1,1,4,1,1,,2,1,1,1,1,EMMANUEL EYOKU,EEY,18/07/2022,2
+PAX06A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX06A1--1,admission_arm_1,form_12_laboratory_result,1,team_1,K-U,97054,1,1,13/07/2022,19:00,M-R,1,7,1,1,1,3,2,,4,3,2,1,1,1,EDRIN MWANDA,EMW,14/07/2022,2
+PAX06A1--1,admission_arm_1,form_12_laboratory_result,2,team_1,K-U,97054,2,1,14/07/2022,20:00,C-T,1,7,1,1,1,4,2,,1,1,2,2,1,1,TIMOTHY KIRWA,T-K,15/07/2022,2
+PAX06A1--1,admission_arm_1,form_12_laboratory_result,3,team_1,K-U,97054,3,1,15/07/2022,19:00,S-M,1,7,1,1,1,4,1,1,,2,1,1,1,1,TIMOTHY KIRWA,T-K,16/07/2022,2
+PAX06A1--1,admission_arm_1,form_12_laboratory_result,4,team_1,K-U,97054,4,1,16/07/2022,20:00,A-P,1,7,1,1,2,4,2,,3,2,1,3,1,1,EDRIN MWANDA,EMW,17/07/2022,2
+PAX06A1--1,admission_arm_1,form_12_laboratory_result,5,team_1,K-U,97054,5,1,17/07/2022,19:29,A-P,1,5,1,1,1,2,1,1,,4,1,1,1,1,KENNETH NAMBOBI,K-N,18/07/2022,2
+PAX06A1--1,admission_arm_1,form_12_laboratory_result,6,team_1,K-U,97054,6,1,18/07/2022,22:00,A-P,1,4,1,1,1,3,2,,1,2,1,1,1,1,EDRIN MWANDA,EMW,19/07/2022,2
+PAX07B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX07B2--1,admission_arm_1,form_12_laboratory_result,1,team_1,S-R,100797,2,1,22/07/2022,19:00,M-R,1,7,1,2,1,4,1,1,,2,1,1,1,1,KENNETH NAMBOBI,K-N,25/07/2022,2
+PAX07B2--1,admission_arm_1,form_12_laboratory_result,2,team_1,S-R,100797,3,1,23/07/2022,19:00,A-P,1,5,1,1,1,4,1,1,,3,1,1,1,1,KENNETH NAMBOBI,K-N,25/07/2022,2
+PAX07B2--1,admission_arm_1,form_12_laboratory_result,3,team_1,S-R,100797,4,1,24/07/2022,19:00,A-P,1,4,1,1,1,3,1,1,,7,1,1,1,1,KENNETH NAMBOBI,K-N,25/07/2022,2
+PAX07B2--1,admission_arm_1,form_12_laboratory_result,4,team_1,S-R,100797,5,1,26/07/2022,18:59,M-R,1,4,1,1,1,4,1,1,,4,1,1,2,1,KENNETH NAMBOBI,K-N,26/07/2022,2
+PAX07B2--1,admission_arm_1,form_12_laboratory_result,5,team_1,S-R,100797,6,1,26/07/2022,11:20,M-R,1,4,1,2,1,5,1,1,,2,1,1,1,2,KENNETH NAMBOBI,K-N,26/07/2022,2
+PAX07B2--1,admission_arm_1,form_12_laboratory_result,6,team_1,S-R,100797,7,1,19/08/2022,12:48,A-P,1,3,1,1,1,2,1,1,,1,1,1,1,1,GEORGE MASIFA,G-M,19/08/2022,2
+PAX07B2--1,admission_arm_1,form_12_laboratory_result,7,team_1,S-R,100797,8,1,18/10/2022,14:00,A-P,1,5,1,1,1,2,1,1,,7,1,1,1,1,FAIZO MACHOKA,F-M,18/10/2022,2
+PAX08A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX08A2--1,admission_arm_1,form_12_laboratory_result,1,team_1,N-F,104463,1,1,20/08/2022,21:55,M-R,1,5,1,1,1,4,1,2,,3,3,1,1,1,KHAMIDU KYAGAMO,HKY,21/08/2022,2
+PAX08A2--1,admission_arm_1,form_12_laboratory_result,2,team_1,N-F,104463,2,1,21/08/2022,15:15,S-M,1,7,1,1,1,3,2,,3,2,3,1,1,4,KENNETH NAMBOBI,K-N,22/08/2022,2
+PAX09A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX09A1--1,admission_arm_1,form_12_laboratory_result,1,team_1,O-S,104759,1,1,27/08/2022,18:00,A-T,1,7,1,1,2,3,2,,4,1,4,1,1,1,EMMANUEL EYOKU,EEY,28/08/2022,2
+PAX09A1--1,admission_arm_1,form_12_laboratory_result,2,team_1,O-S,104759,2,1,28/08/2022,17:50,A-T,1,7,1,1,1,3,2,,4,2,3,1,1,2,KENNETH NAMBOBI,K-N,29/08/2022,2
+PAX09A1--1,admission_arm_1,form_12_laboratory_result,3,team_1,O-S,104759,3,1,29/08/2022,17:50,C-T,1,5,1,1,1,2,2,,4,1,3,1,1,1,TIMOTHY KIRWA,T-K,30/08/2022,2
+PAX09A1--1,admission_arm_1,form_12_laboratory_result,4,team_1,O-S,104759,4,1,30/08/2022,17:40,C-T,1,7,1,1,1,2,2,,4,4,4,1,1,4,EMMANUEL EYOKU,EEY,31/08/2022,2
+PAX09A1--1,admission_arm_1,form_12_laboratory_result,5,team_1,O-S,104759,5,1,31/08/2022,17:50,C-T,1,6,1,1,1,3,2,,4,3,3,1,1,4,KENNETH NAMBOBI,T-K,01/09/2022,2
+PAX09A1--1,admission_arm_1,form_12_laboratory_result,6,team_1,O-S,104759,6,1,01/09/2022,17:41,O-M,1,3,1,1,1,3,,,,3,3,1,1,4,EDRIN MWANDA,EMW,02/09/2022,2
+PAX10B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX11B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX11B2--1,admission_arm_1,form_12_laboratory_result,1,team_1,K-G,109580,1,1,13/10/2022,21:40,C-T,1,7,1,2,2,4,2,,4,7,4,2,1,4,FAIZO MACHOKA,F-M,14/10/2022,2
+PAX12A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX13A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX13A1--1,admission_arm_1,form_12_laboratory_result,1,team_1,W-J,59755,2,1,27/10/2022,14:20,A-T,1,7,1,1,5,4,2,,3,3,3,3,1,1,FAIZO MACHOKA,F-M,27/10/2022,2
+PAX13A1--1,admission_arm_1,form_12_laboratory_result,2,team_1,W-J,59755,3,1,28/10/2022,14:30,A-T,1,7,1,1,5,3,2,,1,3,2,1,1,1,FAIZO MACHOKA,F-M,28/10/2022,2
+PAX13A1--1,admission_arm_1,form_12_laboratory_result,3,team_1,W-J,59755,4,1,29/10/2022,14:30,C-T,1,5,1,1,1,2,1,2,,3,2,2,1,1,TIMOTHY KIRWA,T-K,30/10/2022,2
+PAX13A1--1,admission_arm_1,form_12_laboratory_result,4,team_1,W-J,59755,5,1,30/10/2022,16:20,C-T,1,4,1,1,1,2,1,3,,5,1,1,1,1,RITA MUHINDO,R-M,31/10/2022,2
+PAX13A1--1,admission_arm_1,form_12_laboratory_result,5,team_1,W-J,59755,6,1,31/10/2022,10:35,,1,,1,1,1,4,1,1,,6,1,1,1,1,RITA MUHINDO,R-M,31/10/2022,0
+PAX13A1--1,admission_arm_1,form_12_laboratory_result,6,team_1,W-J,59755,7,1,29/11/2022,13:35,M-B,1,5,1,1,1,7,1,1,,2,1,1,1,1,GEORGE MASIFA,G-M,29/11/2022,2
+PAX14B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,1,team_1,K-S,110116,1,1,30/10/2022,18:15,C-T,1,6,1,1,1,3,1,1,,3,1,2,1,1,RITA MUHINDO,R-M,31/10/2022,2
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,2,team_1,K-S,110116,10,1,31/10/2022,06:20,C-T,1,5,1,1,1,3,1,1,,3,2,1,1,1,RITA MUHINDO,R-M,31/10/2022,2
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,3,team_1,K-S,110116,2,1,31/10/2022,19:00,A-P,1,7,1,1,1,3,1,1,,5,1,1,1,1,RITA MUHINDO,R-M,01/11/2022,2
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,4,team_1,K-S,110116,3,1,01/11/2022,18:40,C-T,1,7,1,1,1,3,1,2,,3,2,1,1,3,FAIZO MACHOKA,F-M,02/11/2022,2
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,5,team_1,K-S,110116,4,1,02/11/2022,19:00,C-T,1,6,1,1,1,4,1,2,,3,2,2,1,3,FAIZO MACHOKA,F-M,03/11/2022,2
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,6,team_1,K-S,110116,5,1,03/11/2022,18:30,C-T,1,5,1,1,1,3,1,1,,4,1,1,1,2,FAIZO MACHOKA,F-M,04/11/2022,2
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,7,team_1,K-S,110116,6,1,04/11/2022,16:30,C-T,1,5,1,1,1,4,1,1,,2,1,1,1,1,FAIZO MACHOKA,F-M,05/11/2022,2
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,8,team_1,K-S,110116,7,1,28/11/2022,09:06,M-B,1,7,1,1,1,6,1,1,,2,1,4,1,1,EMMANUEL EYOKU,EEY,28/11/2022,2
+PAX14B1--1,admission_arm_1,form_12_laboratory_result,9,team_1,K-S,110116,8,1,30/01/2023,08:20,M-R,1,5,1,1,1,1,1,1,,2,1,1,1,1,JOYCE KHWAKA,J-K,30/01/2023,2
+PAX15B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX15B2--1,admission_arm_1,form_12_laboratory_result,1,team_1,K-P,110023,1,1,03/11/2022,17:20,A-T,1,6,1,1,1,3,2,,4,5,3,1,1,5,FAIZO MACHOKA,F-M,04/11/2022,2
+PAX15B2--1,admission_arm_1,form_12_laboratory_result,2,team_1,K-P,110023,2,1,04/11/2022,16:36,C-T,1,7,1,1,1,3,2,,4,6,3,2,1,5,FAIZO MACHOKA,F-M,05/11/2022,2
+PAX16A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX17B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX18A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX19A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX20B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX21B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX22AI--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX23B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX24A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX25B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,
+PAX26A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,

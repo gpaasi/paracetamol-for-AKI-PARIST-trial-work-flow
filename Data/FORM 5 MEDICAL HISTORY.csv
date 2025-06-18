@@ -1,0 +1,27 @@
+record_id_field,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,redcap_data_access_group,date_form5,initial_form5,disease_illness_procedure1,start_date1,end_date1,ongoing1,disease_illness_procedure2,start_date2,end_date2,ongoing2,disease_illness_procedure3,start_date3,end_date3,ongoing3,disease_illness_procedure4,start_date4,end_date4,ongoing4,disease_illness_procedure5,start_date5,end_date5,ongoing5,disease_illness_procedure6,start_date6,end_date6,ongoing6,drug_name1,start_date5a1,end_date5a1,ongoing_5a1,drug_name2,start_date5a2,end_date5a2,ongoing_5a2,drug_name3,start_date5a3,end_date5a3,ongoing_5a3,drug_name4,start_date5a4,end_date5a4,ongoing_5a4,drug_name5,start_date5a5,end_date5a5,ongoing_5a5,completedname5,initial_form5a,date_completed5,form_5_medical_history_complete
+PAX01A1--1,admission_arm_1,,,team_1,18/02/2022,W-I,MALARIA,16/02/2022,,1,MALARIA,04/02/2022,07/02/2022,,,,,,,,,,,,,,,,,,CEFTRIAZONE,16/02/2022,,1,ARTESUNATE,17/02/2022,,1,DYNAPOR,16/02/2022,16/02/2022,,COARTEM,04/02/2022,06/02/2022,,,,,,CATE NAMAYANJA,C-N,18/02/2022,2
+PAX02B1--1,admission_arm_1,,,team_1,02/06/2022,K-Z,SEVERE MALARIA,31/05/2022,,1,,,,,,,,,,,,,,,,,,,,,ARTESUNATE,01/06/2022,,1,,,,,,,,,,,,,,,,,CATE NAMAYANJA,C-N,02/06/2022,2
+PAX03A2--1,admission_arm_1,,,team_1,04/07/2022,A-M,,,,,,,,,,,,,,,,,,,,,,,,,TBS IBUPROFEN,03/07/2022,03/07/2022,,TBS LONART,03/07/2022,03/07/2022,,,,,,,,,,,,,,ONGODIA PAUL,O-P,04/07/2022,2
+PAX04B2--1,admission_arm_1,,,team_1,06/07/2022,M-S,MALARIA,06/07/2022,,1,,,,,,,,,,,,,,,,,,,,,PENOXYMETHYLPENICILLIN,26/06/2022,29/06/2022,,COTRIMOXAZOLE,26/06/2022,29/06/2022,,COARTEM,05/07/2022,05/07/2022,,,,,,,,,,CATE NAMAYANJA,C-N,06/07/2022,2
+PAX05B1--1,admission_arm_1,,,team_1,13/07/2022,A-K,MALARIA,13/07/2022,,1,,,,,,,,,,,,,,,,,,,,,ARTESUNATE,13/07/2022,,1,,,,,,,,,,,,,,,,,CATE NAMAYANJA,C-N,13/07/2022,2
+PAX06A1--1,admission_arm_1,,,team_1,24/07/2022,K-U,PASSING TEA-COLOURED URINE,,24/07/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONGODIA PAUL,O-P,13/07/2022,0
+PAX07B2--1,admission_arm_1,,,team_1,21/07/2022,S-R,,,,,,,,,,,,,,,,,,,,,,,,,ARTESUNATE,21/07/2022,,1,,,,,,,,,,,,,,,,,CATE NAMAYANJA,C-N,21/07/2022,2
+PAX08A2--1,admission_arm_1,,,team_1,20/08/2022,N-F,DUS,20/08/2022,,1,SEVERE MALARIA,20/08/2022,,1,,,,,,,,,,,,,,,,,ARTESUNATE V.I,20/08/2022,,1,V.I CEFTRIAXONE,20/08/2022,,1,DEXTROSE 10%,20/08/2022,,1,,,,,,,,,WANDWASI JOSEPH,W-J,20/08/2022,2
+PAX09A1--1,admission_arm_1,,,team_1,27/08/2022,O-S,SEVERE MALARIA,26/08/2022,,1,MODERATE ANAEMIA,26/08/2022,,1,RECURRENT DUS,26/08/2022,,1,,,,,,,,,,,,,ARTESUNATE I.V,26/08/2022,,1,CEFTRIAXONE I.V,26/08/2022,,1,DEXTROSE 10%,26/08/2022,,1,,,,,,,,,WANDWASI JOSEPH,W-J,27/08/2022,2
+PAX10B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX11B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX12A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX13A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX14B1--1,admission_arm_1,,,team_1,30/10/2022,K-S,SEVERE ANAEMIA,28/10/2022,,1,SEVERE MALARIA,28/10/2022,,1,DUS,28/10/2022,,1,SEPTICAEMIA,28/10/2022,,1,,,,,,,,,CEFTRIAZONE,28/10/2022,,1,HYDROCORTISONE,29/10/2022,,1,ARTESUNATE,30/10/2022,,1,BLOOD,28/10/2022,,1,,,,,WANDWASI JOSEPH,W-J,30/10/2022,2
+PAX15B2--1,admission_arm_1,,,team_1,03/11/2022,K-P,SEVERE ANAEMIA,25/10/2022,,1,DUS,25/10/2022,,1,SEVERE MALARIA,25/10/2022,,1,SEPTICAEMIA,25/10/2022,,,,,,,,,,,ARTESUNATE I.V,25/10/2022,02/11/2022,,CEFTRIAXONE,25/10/2022,,1,BLOOD (RED CELL CONCENTRATE),25/10/2022,,1,DEXTROSE 10%,25/10/2022,,1,,,,,WANDWASI JOSEPH,W-J,03/11/2022,0
+PAX16A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX17B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX18A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX19A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX20B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX21B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX22AI--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX23B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX24A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX25B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX26A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0

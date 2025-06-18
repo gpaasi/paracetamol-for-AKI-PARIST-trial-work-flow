@@ -1,0 +1,67 @@
+record_id_field,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,redcap_data_access_group,child_initial14,clinic_no14,date_of_form,study_arm,time_dose1,date_form14,schedule_time,date_smpl_collectd14a,planned_timea1,actual_timea1,not_done,initial_f14a1,time_dosea2,date_f14a1,schedule_timea2,date_sample_colltd14,planned_timea2,actual_timea2,not_donea2,initial14,form_14_pk_blood_collection_a_complete
+PAX01A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX01A1--1,admission_arm_1,form_14_pk_blood_collection_a,1,team_1,W-I,84001,18/02/2022,1,18:30,18/02/2022,1,18/02/2022,,18:28,,M-R,,,,,,,,,2
+PAX01A1--1,admission_arm_1,form_14_pk_blood_collection_a,2,team_1,W-I,84001,18/02/2022,1,18:30,18/02/2022,2,18/02/2022,19:30,19:32,,M-R,,,,,,,,,2
+PAX01A1--1,admission_arm_1,form_14_pk_blood_collection_a,3,team_1,W-I,84001,18/02/2022,1,18:30,18/02/2022,3,18/02/2022,20:30,20:31,,M-R,,,,,,,,,2
+PAX01A1--1,admission_arm_1,form_14_pk_blood_collection_a,4,team_1,W-I,84001,18/02/2022,1,18:30,18/02/2022,4,18/02/2022,22:30,22:34,,M-R,,,,,,,,,2
+PAX01A1--1,admission_arm_1,form_14_pk_blood_collection_a,5,team_1,W-I,84001,18/02/2022,1,18:30,18/02/2022,5,19/02/2022,00:30,00:27,,M-R,,,,,,,,,2
+PAX01A1--1,admission_arm_1,form_14_pk_blood_collection_a,6,team_1,W-I,84001,18/02/2022,1,18:30,18/02/2022,6,19/02/2022,06:30,06:29,,M-R,,,,,,,,,2
+PAX01A1--1,admission_arm_1,form_14_pk_blood_collection_a,7,team_1,W-I,84001,18/02/2022,1,18:30,18/02/2022,7,19/02/2022,12:30,12:30,,B-A,,,,,,,,,2
+PAX01A1--1,admission_arm_1,form_14_pk_blood_collection_a,8,team_1,W-I,84001,18/02/2022,1,18:30,18/02/2022,8,19/02/2022,18:30,18:37,,A-T,,,,,,,,,2
+PAX02B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX03A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX03A2--1,admission_arm_1,form_14_pk_blood_collection_a,1,team_1,A-M,97951,04/07/2022,2,,,,,,,,,19:10,04/07/2022,1,04-Jul-22,,19:08,,A-P,2
+PAX03A2--1,admission_arm_1,form_14_pk_blood_collection_a,2,team_1,A-M,97951,04/07/2022,2,,,,,,,,,19:10,04/07/2022,2,04-Jul-22,19:38,19:38,,O-P,2
+PAX03A2--1,admission_arm_1,form_14_pk_blood_collection_a,3,team_1,A-M,97951,04/07/2022,2,,,,,,,,,19:10,04/07/2022,3,04-Jul-22,20:38,20:39,,A-P,2
+PAX03A2--1,admission_arm_1,form_14_pk_blood_collection_a,4,team_1,A-M,97951,04/07/2022,2,,,,,,,,,19:10,04/07/2022,4,04-Jul-22,21:38,21:38,,A-P,2
+PAX03A2--1,admission_arm_1,form_14_pk_blood_collection_a,5,team_1,A-M,97951,04/07/2022,2,,,,,,,,,19:10,04/07/2022,5,05-Jul-22,00:08,00:09,,A-P,2
+PAX03A2--1,admission_arm_1,form_14_pk_blood_collection_a,6,team_1,A-M,97951,04/07/2022,2,,,,,,,,,19:10,04/07/2022,6,05-Jul-22,07:08,07:10,,A-P,2
+PAX03A2--1,admission_arm_1,form_14_pk_blood_collection_a,7,team_1,A-M,97951,04/07/2022,2,,,,,,,,,19:10,04/07/2022,7,05-Jul-22,13:08,13:11,,C-T,2
+PAX03A2--1,admission_arm_1,form_14_pk_blood_collection_a,8,team_1,A-M,97951,04/07/2022,2,,,,,,,,,19:10,04/07/2022,8,05-Jul-22,19:08,19:10,,A-P,2
+PAX04B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX05B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX06A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX07B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX08A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX09A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX09A1--1,admission_arm_1,form_14_pk_blood_collection_a,1,team_1,O-S,104759,27/08/2022,1,17:31,27/08/2022,1,27/08/2022,,17:30,,A-T,,,,,,,,,2
+PAX09A1--1,admission_arm_1,form_14_pk_blood_collection_a,2,team_1,O-S,104759,27/08/2022,1,17:31,27/08/2022,2,27/08/2022,18:30,18:30,,M-R,,,,,,,,,2
+PAX09A1--1,admission_arm_1,form_14_pk_blood_collection_a,3,team_1,O-S,104759,27/08/2022,1,17:31,27/08/2022,3,27/08/2022,19:30,19:32,,M-R,,,,,,,,,2
+PAX09A1--1,admission_arm_1,form_14_pk_blood_collection_a,4,team_1,O-S,104759,27/08/2022,1,17:31,27/08/2022,4,27/08/2022,21:30,21:31,,M-R,,,,,,,,,2
+PAX09A1--1,admission_arm_1,form_14_pk_blood_collection_a,5,team_1,O-S,104759,27/08/2022,1,17:31,27/08/2022,5,27/08/2022,23:30,23:32,,M-R,,,,,,,,,2
+PAX09A1--1,admission_arm_1,form_14_pk_blood_collection_a,6,team_1,O-S,104759,27/08/2022,1,17:31,27/08/2022,6,28/08/2022,05:30,05:31,,M-R,,,,,,,,,2
+PAX09A1--1,admission_arm_1,form_14_pk_blood_collection_a,7,team_1,O-S,104759,27/08/2022,1,17:31,27/08/2022,7,28/08/2022,11:30,11:30,,A-T,,,,,,,,,2
+PAX09A1--1,admission_arm_1,form_14_pk_blood_collection_a,8,team_1,O-S,104759,27/08/2022,1,17:31,27/08/2022,8,28/08/2022,17:30,17:30,,A-T,,,,,,,,,2
+PAX10B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX11B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX12A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX13A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX13A1--1,admission_arm_1,form_14_pk_blood_collection_a,1,team_1,W-J,59755,26/10/2022,1,14:13,26/10/2022,1,26/10/2022,,14:08,,O-P,,,,,,,,,2
+PAX13A1--1,admission_arm_1,form_14_pk_blood_collection_a,2,team_1,W-J,59755,26/10/2022,1,14:13,26/10/2022,2,26/10/2022,15:13,15:13,,A-T,,,,,,,,,2
+PAX13A1--1,admission_arm_1,form_14_pk_blood_collection_a,3,team_1,W-J,59755,26/10/2022,1,14:13,26/10/2022,3,26/10/2022,16:13,16:16,,A-T,,,,,,,,,2
+PAX13A1--1,admission_arm_1,form_14_pk_blood_collection_a,4,team_1,W-J,59755,26/10/2022,1,14:13,26/10/2022,4,26/10/2022,18:13,18:15,,A-T,,,,,,,,,2
+PAX13A1--1,admission_arm_1,form_14_pk_blood_collection_a,5,team_1,W-J,59755,26/10/2022,1,14:13,26/10/2022,5,26/10/2022,20:10,20:11,,M-R,,,,,,,,,2
+PAX13A1--1,admission_arm_1,form_14_pk_blood_collection_a,6,team_1,W-J,59755,26/10/2022,1,14:13,26/10/2022,6,27/10/2022,02:10,02:10,,M-R,,,,,,,,,2
+PAX13A1--1,admission_arm_1,form_14_pk_blood_collection_a,7,team_1,W-J,59755,26/10/2022,1,14:13,26/10/2022,7,27/10/2022,08:10,08:12,,M-R,,,,,,,,,2
+PAX13A1--1,admission_arm_1,form_14_pk_blood_collection_a,8,team_1,W-J,59755,26/10/2022,1,14:13,26/10/2022,8,27/10/2022,14:10,14:16,,A-T,,,,,,,,,2
+PAX14B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX14B1--1,admission_arm_1,form_14_pk_blood_collection_a,1,team_1, K-S,110116,30/10/2022,1,18:10,30/10/2022,1,30/10/2022,,18:11,,C-T,,,,,,,,,2
+PAX14B1--1,admission_arm_1,form_14_pk_blood_collection_a,2,team_1, K-S,110116,30/10/2022,1,18:10,30/10/2022,2,30/10/2022,19:11,18:12,,C-T,,,,,,,,,2
+PAX14B1--1,admission_arm_1,form_14_pk_blood_collection_a,3,team_1, K-S,110116,30/10/2022,1,18:10,30/10/2022,3,30/10/2022,20:11,20:12,,A-P,,,,,,,,,2
+PAX14B1--1,admission_arm_1,form_14_pk_blood_collection_a,4,team_1, K-S,110116,30/10/2022,1,18:10,30/10/2022,4,30/10/2022,22:11,22:13,,A-P,,,,,,,,,2
+PAX14B1--1,admission_arm_1,form_14_pk_blood_collection_a,5,team_1, K-S,110116,30/10/2022,1,18:10,30/10/2022,5,31/10/2022,00:11,00:15,,A-P,,,,,,,,,2
+PAX14B1--1,admission_arm_1,form_14_pk_blood_collection_a,6,team_1, K-S,110116,30/10/2022,1,18:10,30/10/2022,6,31/10/2022,06:11,06:12,,A-P,,,,,,,,,2
+PAX14B1--1,admission_arm_1,form_14_pk_blood_collection_a,7,team_1, K-S,110116,30/10/2022,1,18:10,30/10/2022,7,31/10/2022,12:11,12:13,,C-T,,,,,,,,,2
+PAX14B1--1,admission_arm_1,form_14_pk_blood_collection_a,8,team_1, K-S,110116,30/10/2022,1,18:10,30/10/2022,8,31/10/2022,18:11,18:20,,A-P,,,,,,,,,2
+PAX15B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX16A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX17B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX18A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX19A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX20B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX21B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX22AI--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX23B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX24A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX25B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
+PAX26A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,
