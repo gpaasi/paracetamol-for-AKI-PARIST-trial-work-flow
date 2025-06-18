@@ -5,21 +5,10 @@ version: "1.0.0"
 doi: ""
 date-released: 2025-06-18
 authors:
-  - family-names: Mabeya
-    given-names: John K.
-    affiliation: "Department of Paediatrics, University of Nairobi, Kenya"
-  - family-names: Smith
-    given-names: Linda M.
-    affiliation: "Wellcome Centre for Global Health Research, London, UK"
-  - family-names: Chen
-    given-names: Wei
-    affiliation: "School of Medicine, National University of Singapore"
-  - family-names: González
-    given-names: María P.
-    affiliation: "Instituto de Salud Tropical, Universidad de Salamanca, Spain"
-  - family-names: Brown
-    given-names: David D.
-    affiliation: "Children's Hospital at Montefiore, New York, USA"
+  - family-names: Paasi
+    given-names: George
+    affiliation: "clinical trials unit, Mbale clinical research institute"
+  
 abstract: |
   This repository contains all code, data descriptors, and documentation necessary to reproduce the analyses reported in the manuscript
   "Paracetamol use and renal recovery in paediatric haemoglobinuric severe malaria: an RMST-based evaluation".
