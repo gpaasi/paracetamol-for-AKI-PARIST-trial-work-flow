@@ -1,9 +1,7 @@
 # PARIST-Trial Workflow • Severe-Malaria AKI Project
 <!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15689409.svg)](https://doi.org/10.5281/zenodo.15689409)
 [![GitHub release](https://img.shields.io/github/v/release/gpaasi/paracetamol-for-AKI-PARIST-trial-work-flow?include_prereleases&sort=semver)](https://github.com/gpaasi/paracetamol-for-AKI-PARIST-trial-work-flow/releases)
-[![R-CMD-check](https://github.com/gpaasi/paracetamol-for-AKI-PARIST-trial-work-flow/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gpaasi/paracetamol-for-AKI-PARIST-trial-work-flow/actions/workflows/R-CMD-check.yaml)
 [![Code style: styler](https://img.shields.io/badge/code%20style-styler-blueviolet.svg)](https://github.com/r-lib/styler)
 [![Made with R](https://img.shields.io/badge/Made%20with-R-1f425f.svg)](https://www.r-project.org/)
 
