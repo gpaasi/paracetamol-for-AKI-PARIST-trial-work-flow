@@ -1,0 +1,27 @@
+record_id_field,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,redcap_data_access_group,temperature_axilry,heart_rate,respiratory_rate,systolic_blood_pressure,diastolic_blood_pressure,capilllary_refill,oxygen_saturation,weight_form4,height_length,muac_form4,head_circumference_form4,na_headcircum,hiv_form4,lactate_form4,rbs,fever,if_fever,swelling_body,if_swelling_body,yellow_eyes,if_yellow_eyes,cold_hand_feet,if_cold_hand_feet,colored_urine,if_colored_urine,sore_throat,if_sore_throat,vomitting,if_vomitting,diarrhoea,if_diarrhoea,hand_foot_pain,if_hand_foot_pain,convulsions,if_convulsions,bleeding_tendencies,if_bleeding_tendencies,abdominal_pain,if_abdominal_pain,cough,if_cough,difficult_breathing,if_difficult_breathing,inability_sit_stand_feed,if_inablty_sit_standfeed,mental_disorder,if_mental_disorder,neurological_disorder,if_neurological_disorder,others_form4,other_form4a,other_form4b,siblings,form_4_baseline_complete
+PAX01A1--1,admission_arm_1,,,team_1,36.6,132,36,96,51,2,95,13.5,98,15,,1,2,0.6,4.9,1,01-Jul,0,,1,03-Jul,0,,1,,0,,1,FOR 3 DAYS,0,,0,,0,,0,,1,3 DAYS,1,03-Jul,0,,1,03-Jul,0,,0,,,,,3,2
+PAX02B1--1,admission_arm_1,,,team_1,36,110,50,90,45,1,100,19.2,116.2,16.1,,1,3,1.4,5.6,1,02-Jul,0,,1,02-Jul,0,,1,03-Jul,0,,1,02-Jul,1,01-Jul,1,01-Jul,0,,0,,1,02-Jul,1,02-Jul,0,,0,,0,,0,,,,,2,2
+PAX03A2--1,admission_arm_1,,,team_1,36.9,126,22,105,69,1,93,21.8,129,15.5,,1,2,1.8,5,1,"1/7, ON AND OFF",0,,1,GRADE  ONE,0,,1,TWO TIMES IN THIS ILLNESS AND GRADE 10,0,,1,04 EPISODES OF NON PROJECTILE VOMITING,0,,0,,0,,0,,1,DULL PAIN IN UMBLICAL REGION,0,,0,,0,,0,,0,,,,,7,2
+PAX04B2--1,admission_arm_1,,,team_1,36.7,121,33,90,55,1,95,14,91,15,,1,2,1.7,3.8,1,01-Jul,0,,1,01-Jul,0,,1,ONE EPISODE GRADE 8,0,,1,NA,0,,0,,0,,0,,1,01-Jul,1,01-Jul,0,,0,,0,,0,,,,,3,2
+PAX05B1--1,admission_arm_1,,,team_1,37,154,32,96,60,1,93,15,114.8,15,,1,2,4.6,5.3,1,02-Jul,0,,1,02-Jul,0,,1,NA,0,,1,2/7 MORE 10 TIMES,0,,0,,0,,0,,0,,1,02-Jul,0,,1,02-Jul,0,,0,,,,,3,2
+PAX06A1--1,admission_arm_1,,,team_1,37.5,167,38,97,61,1,96,18,112.2,15.7,,1,2,5.9,4.4,1,Jan-52,0,,1,02-Jul,0,,1,"4 TIMES, GRADE 10",0,,1,3 EPISODES,0,,0,,0,,0,,1,"1/7, DULL IN NATURE",1,"DRY IN NATURE, 3/7",0,,0,,0,,0,,,,,3,2
+PAX07B2--1,admission_arm_1,,,team_1,36.7,141,36,98,61,2,99,15,105.3,16,,1,2,4.5,4.7,1,FOR ONE DAY,0,,1,FOR ONE DAY,0,,1,,0,,0,,0,,0,,0,,0,,1,FOR ONE DAY,1,FOR ONE DAY ,0,,1,,0,,0,,,,,2,2
+PAX08A2--1,admission_arm_1,,,team_1,37.9,150,28,78,59,2,97,17.9,120,15,,1,2,3,7,1,02-Jul,0,,1,02-Jul,0,,1,02-Jul,0,,1,5 EPISODE YELLOWISH,0,,0,,0,,0,,1,03-Jul,1,03-Jul,0,,1,01-Jul,0,,0,,,,,3,2
+PAX09A1--1,admission_arm_1,,,team_1,37.6,110,30,98,65,1,96,16.3,100.4,16.4,,1,3,1,4.2,1,04-Jul,0,,1,03-Jul,0,,1,01-Jul,0,,1,01-Jul,1,,0,,0,,0,,1,02-Jul,1,,0,,0,,0,,0,,,,,5,2
+PAX10B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX11B2--1,admission_arm_1,,,team_1,38.5,120,24,94,60,2,97,20,136,17,,1,2,1.7,5.5,1,02-Jul,0,,1,02-Jul,0,,1,02-Jul,0,,1,04 YELLOWISH,0,,0,,0,,0,,1,03-Jul,0,,0,,1,01-Jul,0,,0,,,,,3,2
+PAX12A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX13A1--1,admission_arm_1,,,team_1,36.7,140,26,92,59,2,94,16.4,108.9,15,,1,2,1.6,2.9,1,"HIGH GRADE, ON AND OFF X 1/7",0,,1,LIGHT YELLOW,0,,1,2 TIMES AND GRADE 8,0,,1,"7 EPISODES, YELLOWISH",0,,0,,0,,0,,0,,1,WET IN NATURE X 5/7,0,,0,,0,,0,,,,,2,2
+PAX14B1--1,admission_arm_1,,,team_1,38,115,24,105,84,1,96,20,123.5,14.5,,1,2,2,6.5,1,03-Jul,0,,1,02-Jul,0,,1,"4 TIMES GRADE 9, 4 EPISODES",0,,1,4 EPISODES YELLOWISH,0,,0,,0,,0,,1,02-Jul,1,04-Jul,0,,0,,0,,0,,,,,4,2
+PAX15B2--1,admission_arm_1,,,team_1,36.5,100,23,111,65,1,100,25,137.1,16.5,,1,2,1,49,1,05-Jul,0,,1,04-Jul,0,,1,10-Jul,0,,0,,0,,0,,0,,0,,1,05-Jul,0,,0,,1,02-Jul,0,,0,,,,,7,2
+PAX16A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX17B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX18A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX19A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX20B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX21B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX22AI--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX23B2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX24A2--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX25B1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+PAX26A1--1,admission_arm_1,,,team_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
